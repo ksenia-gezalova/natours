@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ksenia-gezalova/natours#readme",
   "devDependencies": {
+    "gulp-sass": "^4.0.1",
     "node-sass": "^4.9.0"
-  }
+  },
+  "dependencies": {}
 }
